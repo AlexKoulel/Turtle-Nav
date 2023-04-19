@@ -2,7 +2,7 @@
 Turtle Nav is an application for agricultural vehicle GPS navigation in the field using the Google Maps SDK.
 Works on Android 11.0 and above.
 
-![Logo](https://github.com/AlexKoulel/Turtle-Nav/blob/master/app/src/main/res/drawable-hdpi/logosmaller.png)
+![Logo](https://github.com/AlexKoulel/Turtle-Nav/blob/main/app/src/main/res/drawable-hdpi/logosmaller.png)
 # Features
 
 - Create fields using markers on the map.
