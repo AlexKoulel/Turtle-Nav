@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Turtle Nav</string>
+    <string name="app_version">v. 0.15a</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="title_activity_maps_view_all">MapsActivityViewAll</string>
+    <string name="title_activity_maps_view_single_field">MapsActivityViewSingleField</string>
+    <string name="title_activity_maps687">MapsActivity687</string>
+    <string name="title_activity_maps_directions">activity_maps_directions</string>
+    <string name="title_activity_pattern">PatternActivity</string>
+</resources>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.appcompat.widget.LinearLayoutCompat xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@drawable/gradient_background">
+
+    <EditText
+        android:id="@+id/idEdtPatternName"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+        android:hint="Enter Field Name"
+        android:minHeight="48dp" />
+
+    <Button
+        android:id="@+id/idBtnUpdatePattern"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+        android:text="Update Pattern Name"
+        android:textAllCaps="false"
+        android:background="@drawable/rounded_rectangle"/>
+
+    <Button
+        android:id="@+id/idBtnDeletePattern"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+        android:text="Delete Pattern"
+        android:textAllCaps="false"
+        android:background="@drawable/rounded_rectangle"/>
+    <Button
+        android:id="@+id/idBtnCreatePattern"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+        android:text="Navigation"
+        android:textAllCaps="false"
+        android:background="@drawable/rounded_rectangle"/>
+
+
+</androidx.appcompat.widget.LinearLayoutCompat>
