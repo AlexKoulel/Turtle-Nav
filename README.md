@@ -1,23 +1,32 @@
-# Turtle Nav
-Turtle Nav is an application for agricultural vehicle GPS navigation in the field using the Google Maps SDK.
-Works on Android 11.0 and above.
+<div align="center"> 
+  <img src="https://github.com/AlexKoulel/Turtle-Nav/blob/main/app/src/main/res/drawable-hdpi/logosmaller.png" height="120" alt="Turtle Nav"  />
+</div>
 
-![Logo](https://github.com/AlexKoulel/Turtle-Nav/blob/main/app/src/main/res/drawable-hdpi/logosmaller.png)
-# Features
+# Turtle Nav🐢
+Turtle Nav is an Android application designed for precision GPS navigation of agricultural vehicles. 
+It allows farmers to create and manage field boundaries, generate navigation patterns, and follow them with real-time GPS tracking.
 
-- Create fields using markers on the map.
-- Edit and manage fields in the database.
-- Create navigation patterns using AB lines.
-- Navigate through the field using the pattern, with GPS location precision  
 
-# Download
+# ✨Features
+- 📍Create fields using markers on the map.
+- 🗄Edit and manage fields in the database.
+- 🛤Create navigation patterns using AB lines.
+- 📡Navigate through the field following the generated pattern with GPS accuracy.  
+
+# 📲How to use
+1 **Clone the repository.**
+  ```sh
+   git clone https://github.com/AlexKoulel/Turtle-Nav
+   ```
+2 **Open the project in Android Studio.**
+3 **Setup the Google Maps API Key:**
+   - Open `AndroidManifest.xml`.
+   - Change the value of `MAPS_API_KEY` to your own Google Maps API key.
+   - You can generate a key from the [Google Maps Platform](https://developers.google.com/maps).
+4 **Build and run the project on an Android device or an emulator**
+
+# 📜License
 ------------------------------------------------
-Get the app from the [releases page](https://github.com/AlexKoulel/Turtle-Nav/releases).  
-
-# License
-------------------------------------------------
-    Copyright 2023 Alexandros Koulelis
-
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
     You may obtain a copy of the License at
