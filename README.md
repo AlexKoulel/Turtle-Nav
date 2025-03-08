@@ -19,6 +19,7 @@ It allows farmers to create and manage field boundaries, generate navigation pat
    git clone https://github.com/AlexKoulel/Turtle-Nav
    ```
 2 **Open the project in Android Studio.**
+
 3 **Setup the Google Maps API Key:**
    - Open `AndroidManifest.xml`.
    - Change the value of `MAPS_API_KEY` to your own Google Maps API key.
