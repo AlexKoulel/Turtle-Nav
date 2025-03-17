@@ -24,4 +24,5 @@ It allows farmers to create and manage field boundaries, generate navigation pat
    - Open `AndroidManifest.xml`.
    - Change the value of `MAPS_API_KEY` to your own Google Maps API key.
    - You can generate a key from the [Google Maps Platform](https://developers.google.com/maps).
+   - 
 4 **Build and run the project on an Android device or an emulator.**
